@@ -12,7 +12,7 @@
 
 ## Lab Set-up Instructions
 
-- Download Lab Set-up Instructions for Exercises on Amazon EC2 (https://github.com/andreluispro/curso-redhat) and follow the steps to set up an AWS Free Tier account and to use it to launch a simple Red Hat Enterprise Linux 7 instance for the purposes of this course.
+- Download Lab Set-up Instructions for Exercises on Amazon EC2 (https://github.com/andreluispro/curso-redhat/blob/master/Introduction/Setting-up-the-Lab-Enviroment/EdXLabInstructions_May18.pdf) and follow the steps to set up an AWS Free Tier account and to use it to launch a simple Red Hat Enterprise Linux 7 instance for the purposes of this course.
 
 ## Warning
 
