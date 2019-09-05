@@ -32,6 +32,15 @@ To get started, follow the guidelines below, which cover the layout of course co
 
 - Accessing the Command Line
 	- Chapter 2 Overview
+	- Acessing the Command Line
+	- The bash Shell
+	- Logging into a Local Computer
+	- Logging in Over the Network
+	- Logging Out
+
+- Executing Commands Using the Bash Shell
+	- Executing Commands Using the Bash Shell
+	- Basic Command Syntax
 
 ## Chapter 3: Managing Files from the Command Line
 
