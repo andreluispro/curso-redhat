@@ -1,5 +1,8 @@
 # Setting Up the Lab Environment
 
+* If you have any issues with your AWS account, install the similar version of CentOS (CentOS 7.3, http://vault.centos.org/7.3.1611/) to do the lab exercises on virtual machine, VMWare or Virtual BOX.
+* The CentOS Project (https://www.centos.org/)
+
 - This course includes a number of guided exercises and labs, which gives you an opportunity to practice the skills you learn in the course presentations. To complete these exercises, you will need to set up a practice system running Red Hat Enterprise Linux 7 that you completely control.
 - One way to get access to a supported Red Hat Enterprise Linux system is to take advantage of Red Hat Enterprise Linux delivered by Amazon EC2 (Elastic Compute Cloud). Red Hat and Amazon Web Services collaborate to provide official Red Hat Enterprise Linux licensed images through Amazon’s on-demand public cloud service at free or low cost.
 - The guided exercises and labs for this course were written assuming that you will set up an account with Amazon Web Services and use it to start a single, simple system running Red Hat Enterprise Linux 7. You will connect to that system securely over the internet and use it to practice commands.
